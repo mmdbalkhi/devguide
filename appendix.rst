@@ -42,8 +42,10 @@ Documenting Python and style guide
 Issue tracking and triaging
 ---------------------------
 
-* :doc:`tracker`
-* :doc:`triaging`
+* :doc:`tracker2`
+* :doc:`triaging2`
+* :doc:`gh-labels`
+* :doc:`gh-faq`
 
 Language development in depth
 -----------------------------

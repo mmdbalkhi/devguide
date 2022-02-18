@@ -89,7 +89,7 @@ For some examples on language changes that were accepted please read
 `Justifying Python Language Changes`_.
 
 .. _python-ideas: https://mail.python.org/mailman/listinfo/python-ideas
-.. _issue tracker: https://bugs.python.org
+.. _issue tracker: https://github.com/python/cpython/issues
 .. _PEP Index: https://www.python.org/dev/peps/
 .. _draft PEP: https://www.python.org/dev/peps/pep-0001/
 .. _Status Quo Wins a Stalemate: https://www.curiousefficiency.org/posts/2011/02/status-quo-wins-stalemate.html

@@ -157,9 +157,9 @@ Guide for contributing to Python:
 +------------------------+---------------------+-----------------------+---------------------+
 | New Contributors       | Documentarians      | Triagers              | Core Developers     |
 +========================+=====================+=======================+=====================+
-| :doc:`setup`           | :doc:`docquality`   | :doc:`tracker`        | :doc:`coredev`      |
+| :doc:`setup`           | :doc:`docquality`   | :doc:`tracker2`       | :doc:`coredev`      |
 +------------------------+---------------------+-----------------------+---------------------+
-| :doc:`help`            | :doc:`documenting`  | :doc:`triaging`       | :doc:`developers`   |
+| :doc:`help`            | :doc:`documenting`  | :doc:`triaging2`      | :doc:`developers`   |
 +------------------------+---------------------+-----------------------+---------------------+
 | :doc:`pullrequest`     | :ref:`style-guide`  | :ref:`helptriage`     | :doc:`committing`   |
 +------------------------+---------------------+-----------------------+---------------------+
@@ -304,8 +304,8 @@ Full Table of Contents
    documenting
    silencewarnings
    fixingissues
-   tracker
-   triaging
+   tracker2
+   triaging2
    communication
    porting
    coredev
@@ -341,5 +341,5 @@ Full Table of Contents
 .. _Jython: http://www.jython.org/
 .. _IronPython: http://ironpython.net/
 .. _Stackless: http://www.stackless.com/
-.. _Issue tracker: https://bugs.python.org/
+.. _Issue tracker: https://github.com/python/cpython/issues
 .. _open pull requests: https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aopen%20label%3A%22awaiting%20review%22

@@ -378,8 +378,6 @@ another so they can easily verify whether their comments have been addressed.
 The commits will be squashed when the pull request is merged.
 
 
-.. _issue tracker: https://bugs.python.org
-
 Converting an Existing Patch from b.p.o to GitHub
 -------------------------------------------------
 
@@ -510,3 +508,5 @@ Non-trivial contributions are credited in the ``Misc/ACKS`` file (and, most
 often, in a contribution's news entry as well).  You may be
 asked to make these edits on the behalf of the core developer who
 accepts your pull request.
+
+.. _issue tracker: https://github.com/python/cpython/issues

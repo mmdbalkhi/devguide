@@ -26,8 +26,7 @@ to enter the public source tree. Ask yourself the following questions:
 * **Are the changes acceptable?** 
    If you want to share your work-in-progress code on a feature or bugfix, 
    then you can open a ``WIP``-prefixed pull request, publish patches on 
-   the `issue tracker <https://bugs.python.org/>`_, or create a public 
-   fork of the repository.
+   the `issue tracker`_, or create a public fork of the repository.
 
 * **Do the checks on the pull request show that the test suite passes?** 
    Make sure that all of the status checks are passing.
@@ -247,3 +246,5 @@ the commit message. Here is an example::
 
    Reverts python/cpython#111.
    Reason: This commit broke the buildbot.
+
+.. _issue tracker: https://github.com/python/cpython/issues
